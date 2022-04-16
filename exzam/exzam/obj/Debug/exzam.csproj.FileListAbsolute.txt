@@ -1,0 +1,10 @@
+C:\Users\mobil\source\repos\exzam\exzam\bin\Debug\exzam.exe.config
+C:\Users\mobil\source\repos\exzam\exzam\bin\Debug\exzam.exe
+C:\Users\mobil\source\repos\exzam\exzam\bin\Debug\exzam.pdb
+C:\Users\mobil\source\repos\exzam\exzam\obj\Debug\exzam.csproj.AssemblyReference.cache
+C:\Users\mobil\source\repos\exzam\exzam\obj\Debug\exzam.Form1.resources
+C:\Users\mobil\source\repos\exzam\exzam\obj\Debug\exzam.Properties.Resources.resources
+C:\Users\mobil\source\repos\exzam\exzam\obj\Debug\exzam.csproj.GenerateResource.cache
+C:\Users\mobil\source\repos\exzam\exzam\obj\Debug\exzam.csproj.CoreCompileInputs.cache
+C:\Users\mobil\source\repos\exzam\exzam\obj\Debug\exzam.exe
+C:\Users\mobil\source\repos\exzam\exzam\obj\Debug\exzam.pdb

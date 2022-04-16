@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exzam", "exzam\exzam.csproj", "{2C687C00-8F76-4122-9735-9F5BD315C92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C687C00-8F76-4122-9735-9F5BD315C92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C687C00-8F76-4122-9735-9F5BD315C92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C687C00-8F76-4122-9735-9F5BD315C92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C687C00-8F76-4122-9735-9F5BD315C92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DE8D2A-2CB7-46BD-B416-DB41A21E04C2}
+	EndGlobalSection
+EndGlobal
